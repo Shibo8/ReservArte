@@ -28,7 +28,7 @@ namespace reservarte
             }
             catch (Exception ex)
             {
-                MessageBox.Show("CU!!!");
+                MessageBox.Show("Conexão falhou!!");
             }
             criarFilmes(9);
         }
